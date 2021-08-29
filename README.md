@@ -13,30 +13,42 @@
 - ⏳ Enjoying the process
 ---
 ## 🚀 Coding
-### Skills:
+## Skills:
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=red&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=101010)]()
+**FrontEnd**
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=red&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ble&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=viole&labelColor=101010)]()
 </br>
+
+**BackEnd**
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=viole&labelColor=101010)]()
+</br>
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
+
+**Data Base**
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=101010)]()
 </br>
 
-And more...
+learning the following technologies:
+
+<img src="./img/twitter.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="LIVEWIRE"> Laravel Livewire
+
 <br>
 
-<img src="./img/details-icon-html.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="HTML">
-<img src="./img/details-icon-css.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="CSS">
-<img src="./img/details-icon-javascript.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="JAVA SCRIPT">
-<img src="./img/details-icon-bootstrap.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="BOOTSTRAP">
-<br>
-<img src="./img/laravel.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="LARAVEL">
-<img src="./img/java.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="JAVA">
-<img src="./img/php.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="PHP">
-<img src="./img/postgresql.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="POSTGRESQL">
-
-
----
-
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
+[![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=green&labelColor=101010)]()
+[![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
 ## Find me at:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@nahuelitodev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue&labelColor=101010)](https://twitter.com/nahuelitodev)
@@ -45,3 +57,4 @@ And more...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Wagner-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/nahuewagner)
 
 [![Web](https://img.shields.io/badge/My_Website-nahuewagner-14a1f0?style=for-the-badge&logo=dev.to&logoColor=green&labelColor=101010)](https://nahuewagner.netlify.app/)
+[![Linktree](https://img.shields.io/badge/Linktree-005571?style=for-the-badge&logo=linktree&logoColor=red&labelColor=101010)](https://linktr.ee/Nahuelito97)
