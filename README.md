@@ -34,7 +34,6 @@
 
 **Data Base**
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSql](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=101010)]()
 </br>
@@ -46,7 +45,6 @@ learning the following technologies:
 <br>
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
-[![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=green&labelColor=101010)]()
 [![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
 ## Find me at:
