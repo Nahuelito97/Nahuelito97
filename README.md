@@ -29,7 +29,6 @@
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red&labelColor=101010)]()
 [![Laravel](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=viole&labelColor=101010)]()
 </br>
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 
 **Data Base**
@@ -40,13 +39,9 @@
 
 learning the following technologies:
 
-<img src="./img/twitter.png" class="rounded-circle" alt="Cinque Terre" width="70" height="60" title="LIVEWIRE"> Laravel Livewire
-
-<br>
-
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=green&labelColor=101010)]()
-[![](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
 ## Find me at:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@nahuelitodev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue&labelColor=101010)](https://twitter.com/nahuelitodev)
