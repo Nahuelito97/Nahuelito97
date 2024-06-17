@@ -2,7 +2,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you, my name is Nahuel Wagner from 📍 Misiones | Argentina 🇦🇷</h1>
 
-## Freelance web Developer
+## Full Stack Developer
 
 - 🔭 I’m currently working to be a great developer.
 - 🌱 I’m currently learning more about web programming.
