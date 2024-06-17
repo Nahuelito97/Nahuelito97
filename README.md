@@ -1,5 +1,3 @@
-<img src="./img/NAHU.png" class="rounded-circle" alt="Cinque Terre" width="200"/> 
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you, my name is Nahuel Wagner from 📍 Misiones | Argentina 🇦🇷</h1>
 
 ## Full Stack Developer
