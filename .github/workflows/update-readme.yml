@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Ejecutar diariamente
-  workflow_dispatch: # Permitir ejecución manual
+    - cron: '0 0 * * *'  # Ejecutar diariamente a la medianoche
+  workflow_dispatch:  # Permitir ejecución manual
 
 jobs:
   update:
