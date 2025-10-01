@@ -33,6 +33,8 @@ me.sayHi();
 ```
 
 ---
+https://komarev.com/ghpvc/?username=nahuelito97&style=for-the-badge&color=blue
+
 
 ## 🚀 Skills
 
