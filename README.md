@@ -33,7 +33,7 @@ me.sayHi();
 ```
 
 ---
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=nahuelito97&label=Profile%20views&color=0e75b6&style=flat" alt="nahuelito97" />
 </p>
 
