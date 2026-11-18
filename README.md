@@ -1,108 +1,130 @@
-<h1 align="center">Hey! Nice to see you 👋</h1>
-<h3 align="center">I'm Nahuel Wagner, a passionate Full Stack Developer from Misiones, Argentina 🇦🇷</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:E0234E&height=200&section=header&text=Nahuel%20Wagner&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2F%20Full%20Stack%20Engineer%20%C2%B7%20NestJS%20%C2%B7%20Tech%20Lead&descSize=18&descAlignY=60" alt="Nahuel Wagner, Backend / Full Stack Engineer, NestJS, Tech Lead" />
 
-<h3 align="left">About Me</h3>
-
-```typescript
-import { Injectable } from '@nestjs/common';
-
-// Nest.js Developer Bio
-
-@Injectable()
-class SoftwareEngineer {
-  name: string;
-  role: string;
-  technologies: string[];
-
-  constructor() {
-    this.name = "Nahuel Wagner";
-    this.role = "Full Stack Developer";
-  }
-
-  sayHi(): void {
-    console.log(
-      "Thanks for visiting! I hope you find my projects and skills with Nest.js interesting."
-    );
-  }
-}
-
-const me = new SoftwareEngineer();
-me.sayHi();
-```
-
----
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nahuelito97&label=Profile%20views&color=0e75b6&style=flat" alt="nahuelito97" />
-</p>
-
-
-
-## 🚀 Skills
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=red&labelColor=101010)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=blue&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=blue&labelColor=101010)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white&labelColor=101010)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=violet&labelColor=101010)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-
-### Backend & APIs
-
-![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=red&labelColor=101010)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=pink&labelColor=101010)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black&labelColor=101010)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=blue&labelColor=101010)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)
-
----
-
-## 🔍 Find me at:
-
-[![X](https://img.shields.io/badge/Twitter-@nahuelitodev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=blue&labelColor=101010)](https://x.com/nahuelitodev)  
-[![Instagram](https://img.shields.io/badge/Instagram-@nahuewagner-E4405F?style=for-the-badge&logo=instagram&logoColor=red&labelColor=101010)](https://instagram.com/nahue_wagner)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahuel_Wagner-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/nahuewagner/)  
-[![Linktree](https://img.shields.io/badge/Linktree-005571?style=for-the-badge&logo=linktree&logoColor=red&labelColor=101010)](https://linktr.ee/Nahuelito97)
-
----
-
-<h3 align="left">Support Me</h3>
-
-<p>
-<a href="https://ko-fi.com/nahuewagner">
-<img align="center" src="https://cdn.ko-fi.com/cdn/kofi5.png" height="60" width="217" alt="Support me on Ko-fi" style="filter: hue-rotate(300deg);" />
+<a href="https://github.com/Nahuelito97">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Backend-heavy+products%2C+shipped+end+to+end;NestJS+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+Redis;Led+an+8-person+engineering+team;Open+to+new+opportunities+%C2%B7+Remote-first" alt="Backend-heavy products, shipped end to end. NestJS, TypeScript, PostgreSQL, Redis. Led an 8-person engineering team. Open to new opportunities, remote-first." />
 </a>
-</p>
 
+📍 Posadas, Argentina · Remote-first
+
+<a href="https://nahuewagner.netlify.app"><img src="https://img.shields.io/badge/Portfolio-visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/nahuewagner/"><img src="https://img.shields.io/badge/LinkedIn-Nahuel_Wagner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" /></a>
+<a href="https://x.com/nahuelitodev"><img src="https://img.shields.io/badge/X-@nahuelitodev-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010" alt="X" /></a>
+
+<img src="https://img.shields.io/badge/Status-Open_to_new_opportunities-2ea44f?style=flat-square" alt="Open to new opportunities" />
+<img src="https://komarev.com/ghpvc/?username=nahuelito97&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
+## 👋 About
 
+I'm a backend-leaning full-stack engineer with **5+ years** shipping production systems, from ride-hailing platforms serving thousands of users to delivery apps, internal tools and open-source libraries. I design and ship backend-heavy products end to end: REST APIs, async workers, payments, real-time features and the admin panels that sit on top.
 
-## 📈 Statistics
+I've led an **8-person engineering team** and run **WagnerLabs**, my freelance studio. I'm **open to new opportunities**: full-time roles, contracts and freelance projects, remote.
+
+## 📈 Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Team_led-8_engineers-0e75b6?style=for-the-badge&labelColor=101010" alt="Led an 8-person team" />
+<img src="https://img.shields.io/badge/Failed_transactions-−25%25-2ea44f?style=for-the-badge&labelColor=101010" alt="25% fewer failed transactions" />
+<img src="https://img.shields.io/badge/Response_times-20–30%25_faster-E0234E?style=for-the-badge&labelColor=101010" alt="20 to 30% faster responses" />
+<img src="https://img.shields.io/badge/Automation_gains-~50%25-8957e5?style=for-the-badge&labelColor=101010" alt="Around 50% automation gains" />
+<img src="https://img.shields.io/badge/Experience-5%2B_years-d29922?style=for-the-badge&labelColor=101010" alt="5+ years of experience" />
+
+</div>
+
+## 🛠️ What I do
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>⚡ MVP in 4 weeks</h3>
+      <p>Zero to deployable MVP: backend, frontend, integrations, deploy and docs.</p>
+      <ul>
+        <li>NestJS + React / Next.js stack</li>
+        <li>Auth, payments, dashboards out of the box</li>
+        <li>CI/CD + architecture docs included</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔍 Backend audit</h3>
+      <p>Architecture and code review of your NestJS / Node.js codebase, with a clear roadmap.</p>
+      <ul>
+        <li>Performance, security &amp; DX review</li>
+        <li>Concrete refactor roadmap</li>
+        <li>Best-practices report with priorities</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>👥 Tech leadership</h3>
+      <p>Fractional CTO / Tech Lead embedded with your engineering team.</p>
+      <ul>
+        <li>Sprint planning, PR review and standards</li>
+        <li>Architecture and roadmap decisions</li>
+        <li>Mentoring + hiring support</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Stack
 
 <p align="center">
-  <a href="https://github.com/nahuelito97">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nahuelito97&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nahuelito97&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,react,nextjs,postgres,prisma,redis,docker,aws,laravel,flutter,vue,firebase&perline=7" alt="NestJS, TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, Redis, Docker, AWS, Laravel, Flutter, Vue, Firebase" />
   </a>
 </p>
 
----
+<p align="center"><sub>Also shipped to production: Strapi · BullMQ · Socket.IO · MercadoPago · Stripe · Kubernetes</sub></p>
 
-💬 I’m open to collaborations and always eager to learn something new! Feel free to reach out on any of my social networks. 🚀
+## 🚀 Featured projects
+
+| Project | What it is | Stack | Link |
+|---|---|---|---|
+| **SPLG** | Final degree project: ordering and logistics system for bottled-gas distributors. Customer and driver apps, a web panel and a real-time NestJS backend with automatic dispatch, route sheet, anticipated reorder, an AI document reader and an assistant. In production for a real distributor. | Flutter · NestJS · TypeScript · PostgreSQL (PostGIS) · Redis · Socket.IO · Firebase | [Landing](https://splg-gas.netlify.app) · [Panel](https://splg-gas.web.app) |
+| **API Monitor** | Centralized monitoring of usage, cost and availability across 35+ APIs. Plugin architecture, BullMQ pipeline with anomaly detection and a dashboard. | NestJS · TypeScript · PostgreSQL · Redis · Next.js · Docker | Personal flagship |
+| **TUTU** | Ride-hailing backend serving thousands of users: Clean Architecture, real-time driver matching, MercadoPago payments, AWS KYC. | NestJS · TypeScript · PostgreSQL · Redis · AWS · Docker · Kubernetes | Production (private) |
+| **Tribu Saludable** | Wellness SaaS with courses, community and a health diagnostic wizard (free and paid results with PDF, tied into checkout). | React · TypeScript · Strapi · PostgreSQL · Stripe | Production (private) |
+| **node-permissions** | Open-source RBAC library for Node.js, Express and NestJS. | TypeScript · NestJS · Node.js | [GitHub](https://github.com/Nahuelito-Dev/node-permissions) · [npm](https://www.npmjs.com/package/@wagner-labs/node-permissions) |
+
+More case studies in the [portfolio](https://nahuewagner.netlify.app).
+
+## 💼 Experience
+
+- **Full Stack Developer**, EIMO: LMS, e-commerce and multi-currency checkout (Strapi + React).
+- **Founder & Full Stack Developer**, WagnerLabs: end-to-end products for clients, with automation gains of around 50 %.
+- **Tech Lead / Full Stack Developer**, TUTU: led an 8-person team; MercadoPago integration cut failed transactions by 25 %.
+- **Backend Developer**, Adsmovil: refactored APIs, 20–30 % better response times.
+
+<details>
+<summary>🇦🇷 <b>Leer en castellano</b></summary>
+
+<br />
+
+Soy ingeniero full-stack con base en backend, con más de 5 años enviando sistemas a producción: plataformas de movilidad para miles de usuarios, apps de delivery, herramientas internas y librerías open-source. Lideré un equipo de 8 personas como Tech Lead en TUTU y llevo adelante **WagnerLabs**, mi estudio freelance.
+
+**Qué hago:** MVP en 4 semanas, backend audit y tech leadership (CTO fraccional integrado a tu equipo).
+
+**Proyecto destacado:** SPLG, mi Trabajo Final de grado: sistema de pedidos y logística para distribuidoras de gas envasado, en producción para una distribuidora real.
+
+Estoy **abierto a nuevas oportunidades**: relación de dependencia, contratos o proyectos freelance, 100 % remoto desde Posadas, Misiones.
+
+</details>
+
+## 📬 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahuewagner/"><img src="https://img.shields.io/badge/LinkedIn-Nahuel_Wagner-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" /></a>
+  <a href="https://x.com/nahuelitodev"><img src="https://img.shields.io/badge/X-@nahuelitodev-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010" alt="X" /></a>
+  <a href="https://nahuewagner.netlify.app"><img src="https://img.shields.io/badge/Portfolio-visit-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio" /></a>
+  <a href="mailto:nahuel.wagner97@gmail.com"><img src="https://img.shields.io/badge/Email-nahuel.wagner97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
+  <a href="https://instagram.com/nahue_wagner"><img src="https://img.shields.io/badge/Instagram-@nahue__wagner-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010" alt="Instagram" /></a>
+  <a href="https://linktr.ee/Nahuelito97"><img src="https://img.shields.io/badge/Linktree-Nahuelito97-43E55E?style=for-the-badge&logo=linktree&logoColor=white&labelColor=101010" alt="Linktree" /></a>
+  <a href="https://ko-fi.com/nahuewagner"><img src="https://img.shields.io/badge/Ko--fi-Support_my_work-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=101010" alt="Ko-fi" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0234E,100:0e75b6&height=100&section=footer" alt="" width="100%" />
